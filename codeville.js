@@ -19,4 +19,4 @@ const stations = [
   }
   return goodStations
 }
-console.log(chooseStations(stations))
+chooseStations(stations)
