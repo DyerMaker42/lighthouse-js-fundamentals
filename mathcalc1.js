@@ -9,7 +9,7 @@ function calculateRectangleArea(length,width){
   } 
 }
 
-function calculateTriangleArea (base, height) {
+function calculateTriangleArea (base, height) {t
   if (base > 0 && height > 0) {
     let area = base * height * 0.5;
     return area
