@@ -1,0 +1,6 @@
+const array = [];
+
+function range(start, stop, end){
+  for ( let i = start; i < stop; i = i + step )
+  return array.push(i)
+}
